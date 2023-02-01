@@ -27,3 +27,7 @@
 
 ![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=TarikHamit)
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarikHamit" alt="TarikHamit" /> </p>
+                                                                                                      
+                                                                                                      
+                                                                                                      
