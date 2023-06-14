@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarik Hamit</h1>
-<h3 align="center">A softwere developer</h3>
+<h3 align="center">A softwere developer *interested in cyber security* </h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style=border-radius:20%" width="500" align="right" alt="coding" >
 - 🔭 I’m currently working on **improving**
 
