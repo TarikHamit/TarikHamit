@@ -24,7 +24,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=TarikHamit&theme=horizon" width="48%" >
 <br>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=TarikHamit)
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarikHamit" alt="TarikHamit" /> </p>
                                                                                                       
