@@ -16,7 +16,7 @@
             
             
           
-          i like staring at codes that makes absolute no sense
+          i like staring at codes that makes absolute no sense 🤫
 
 
             
