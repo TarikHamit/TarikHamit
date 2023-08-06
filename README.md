@@ -29,7 +29,7 @@
  
 ## Github Status 🏆
 ![TarikHamit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarikHamit&theme=midnight-purple&hide_border=true)
-<![TarikHamit's Stats](https://github-readme-stats.vercel.app/api?username=TarikHamit&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![TarikHamit's Stats](https://github-readme-stats.vercel.app/api?username=TarikHamit&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 <br>
