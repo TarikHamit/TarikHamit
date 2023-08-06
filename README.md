@@ -29,9 +29,7 @@
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TarikHamit&count_private" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=TarikHamit&theme=horizon" width="48%" >
-<br>
+<![TarikHamit's Stats](https://github-readme-stats.vercel.app/api?username=TarikHamit&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 <br>
