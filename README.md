@@ -28,9 +28,9 @@
 
  
 ## Github Status 🏆
-<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikHamit&theme=midnight-purple&hide_border=true" width="50%" align="center">
-![TarikHamit's Streak]() </div>
+
 
 
 
