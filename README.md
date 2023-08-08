@@ -28,8 +28,8 @@
 
  
 ## Github Status 🏆
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikHamit&theme=midnight-purple&hide_border=true" width="50%" align="center">
+<div align ="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikHamit&theme=midnight-purple&hide_border=true" width="50%" align="center"> </div>
 
 
 
