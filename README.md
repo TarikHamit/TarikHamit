@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarik</h1>
+<h1 align="center" style="color:purple;>Hi 👋, I'm Tarik</h1>
 <h3 align="center">A passionate Web developer</h3>
 
 - 🔭 I’m currently working on ****improving****
